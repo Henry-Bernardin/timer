@@ -8,7 +8,6 @@ class Timer {
         this.onTick = callbacks.onTick;
         this.onComplete = callbacks.onComplete;
       }
-  
       this.startButton.addEventListener('click', this.start);
       this.pauseButton.addEventListener('click', this.pause);
     }
@@ -46,5 +45,4 @@ class Timer {
   set timeRemaining(time) {//starts with the updated time
     this.durationInput.value = time; 
   }
-  
 }
