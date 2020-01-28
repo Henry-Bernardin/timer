@@ -16,7 +16,7 @@
 
     onTick(){
       circle.setAttribute('stroke-dashoffset', currentOffset);
-      currentOffset = currentOffset - 50; 
+      currentOffset = currentOffset - 1; 
     },
 
     onComplete(){
