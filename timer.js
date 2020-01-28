@@ -44,6 +44,6 @@ class Timer {
   }
 
   set timeRemaining(time) {//starts with the updated time
-    this.durationInput.value = time; 
+    this.durationInput.value = time.toFixed(2); 
   }
 }
