@@ -9,7 +9,7 @@
 
 -Displays a timer 
 
--Shows an animated border around the timer 
+-Shows an animated border around timer 
 
 ## Tech Used / Dependencies
 
