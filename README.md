@@ -1,4 +1,4 @@
-# Timer Project
+# Timer-App
  
 #Overview
 - A timer app. 
