@@ -1,7 +1,7 @@
 # Timer-App
  
 #Overview
-- A timer app. 
+- A simple one page timer app. 
 
 ### LIVE LINK: https://peaceful-allen-4f1188.netlify.com/
 
